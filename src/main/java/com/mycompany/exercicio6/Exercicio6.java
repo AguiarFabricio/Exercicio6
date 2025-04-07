@@ -1,8 +1,3 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
-package com.mycompany.exercicio6;
-
 /**
  *
  * @author Fabricio de Aguiar
@@ -15,7 +10,7 @@ mensagem.
 6 - Repita o exercício anterior, mas agora mostre a
 mensagem abaixo usando concatenação no código:
 O valor da variável é : <número escolhido>*/
-
+package com.mycompany.exercicio6;
 import javax.swing.JOptionPane;
 
 public class Exercicio6 {
